@@ -9,7 +9,11 @@ http://dplatino.net/live/Copla/HH28wHfJ5hSV/81254.m3u8
 http://dplatino.net/live/Copla/HH28wHfJ5hSV/81258.m3u8
 
 
+#EXTINF:-1 group-title="DirecTV (temporal)",DirecTV 1
+http://dplatino.net/live/Copla/HH28wHfJ5hSV/50724.m3u8
 
+#EXTINF:-1 group-title="DirecTV (temporal)",DirecTV 2
+http://dplatino.net/live/Copla/HH28wHfJ5hSV/50725.m3u8
 
 
 
