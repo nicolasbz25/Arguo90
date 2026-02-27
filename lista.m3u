@@ -1,64 +1,129 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
 
-############################
+############################################
 
-Argentina | Aire
+ARGENTINA | AIRE
 
-############################
+############################################
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_2016.png" group-title="Argentina | Aire",Telefe
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="Argentina | Aire",Telefe
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157590
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/El_Trece_logo_2016.png" group-title="Argentina | Aire",El Trece
+#EXTINF:-1 tvg-id="Canal13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina | Aire",El Trece
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157615
 
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Canal_9_logo_2018.png" group-title="Argentina | Aire",El Nueve
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="Argentina | Aire",El Nueve
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157595
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/America_TV_logo.png" group-title="Argentina | Aire",América TV
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="Argentina | Aire",América TV
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157622
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/TV_Publica_logo.png" group-title="Argentina | Aire",TV Pública
-http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157589
+############################################
 
-############################
+ARGENTINA | AIRE HD (MPD)
 
-Argentina | Noticias
+############################################
 
-############################
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina | Aire HD",TV Pública
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TN_logo_2016.png" group-title="Argentina | Noticias",TN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="Argentina | Aire HD",Telefe HD
+https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+#EXTINF:-1 tvg-id="Canal13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina | Aire HD",El Trece HD
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="Argentina | Aire HD",El Nueve HD
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="Argentina | Aire HD",América TV HD
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+
+############################################
+
+NOTICIAS
+
+############################################
+
+#EXTINF:-1 group-title="Noticias",TN
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157577
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/C5N_logo.png" group-title="Argentina | Noticias",C5N
+#EXTINF:-1 group-title="Noticias",C5N
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157607
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/A24_logo.png" group-title="Argentina | Noticias",A24
-http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157566
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_26_logo.png" group-title="Argentina | Noticias",Canal 26
+#EXTINF:-1 group-title="Noticias",Canal 26
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157594
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/La_Nacion%2B_logo.png" group-title="Argentina | Noticias",LN+
+#EXTINF:-1 group-title="Noticias",LN+
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157592
 
-############################
+############################################
 
-Premium | HBO
+CINEAR
 
-############################
+############################################
 
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium | HBO",HBO
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CINE.AR_logo.png/512px-CINE.AR_logo.png" group-title="Cine y Series",Cinear
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157601
+
+############################################
+
+HBO (DIRECTO)
+
+############################################
+
+#EXTINF:-1 group-title="HBO",HBO
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9670
 
-#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium | HBO",HBO 2
+#EXTINF:-1 group-title="HBO",HBO 2
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9675
 
-#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium | HBO",HBO Plus
+#EXTINF:-1 group-title="HBO",HBO Plus
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9688
 
-#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium | HBO",HBO Family
+#EXTINF:-1 group-title="HBO",HBO Family
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9676
 
-#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium | HBO",HBO Xtreme
+#EXTINF:-1 group-title="HBO",HBO Xtreme
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9698
+
+############################################
+
+DEPORTES (FOX SPORTS MPD)
+
+############################################
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 group-title="Deportes",FOX Sports
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 group-title="Deportes",FOX Sports 2
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd
+
+############################################
+
+STAR / FX / A&E
+
+############################################
+
+#EXTINF:-1 group-title="Cine y Series",Star Channel MX
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9723
+
+#EXTINF:-1 group-title="Cine y Series",FX
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9654
+
+#EXTINF:-1 group-title="Cine y Series",A&E
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/9615
