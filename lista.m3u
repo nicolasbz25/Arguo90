@@ -6,48 +6,17 @@ Argentina | Aire (Directo)
 
 ############################
 
-#EXTINF:-1 group-title="Argentina | Aire",Telefe (Directo)
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_2016.png" group-title="Argentina | Aire",Telefe
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157590
 
-#EXTINF:-1 group-title="Argentina | Aire",El Trece (Directo)
+#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/El_Trece_logo_2016.png" group-title="Argentina | Aire",El Trece
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157615
 
-#EXTINF:-1 group-title="Argentina | Aire",El Nueve (Directo)
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Canal_9_logo_2018.png" group-title="Argentina | Aire",El Nueve
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157595
 
-#EXTINF:-1 group-title="Argentina | Aire",América TV (Directo)
+#EXTINF:-1 tvg-id="america.ar" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/America_TV_logo.png" group-title="Argentina | Aire",América TV
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157622
-
-############################
-
-Argentina | Aire (MPD)
-
-############################
-
-#EXTINF:-1 group-title="Argentina | Aire MPD",TV Pública
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
-
-#EXTINF:-1 group-title="Argentina | Aire MPD",Telefe HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
-
-#EXTINF:-1 group-title="Argentina | Aire MPD",El Trece HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
-
-#EXTINF:-1 group-title="Argentina | Aire MPD",El Nueve HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
-
-#EXTINF:-1 group-title="Argentina | Aire MPD",América TV HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
 ############################
 
@@ -55,35 +24,40 @@ Argentina | Noticias (Directo)
 
 ############################
 
-#EXTINF:-1 group-title="Argentina | Noticias",TN (Directo)
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TN_logo_2016.png" group-title="Argentina | Noticias",TN
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157577
 
-#EXTINF:-1 group-title="Argentina | Noticias",C5N (Directo)
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/C5N_logo.png" group-title="Argentina | Noticias",C5N
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157607
 
-#EXTINF:-1 group-title="Argentina | Noticias",Canal 26 (Directo)
+#EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/A24_logo.png" group-title="Argentina | Noticias",A24
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157566
+
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_26_logo.png" group-title="Argentina | Noticias",Canal 26
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157594
 
-#EXTINF:-1 group-title="Argentina | Noticias",LN+ (Directo)
+#EXTINF:-1 tvg-id="lnplus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/La_Nacion%2B_logo.png" group-title="Argentina | Noticias",LN+
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157592
 
 ############################
 
-Argentina | Noticias (MPD)
+Argentina | Aire (HD MPD)
+
+(Solo Android TV / Kodi)
 
 ############################
 
-#EXTINF:-1 group-title="Argentina | Noticias MPD",TN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/TV_Publica_logo.png" group-title="Argentina | HD",TV Pública HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:-1 group-title="Argentina | Noticias MPD",C5N HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_2016.png" group-title="Argentina | HD",Telefe HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
-#EXTINF:-1 group-title="Argentina | Noticias MPD",A24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/El_Trece_logo_2016.png" group-title="Argentina | HD",El Trece HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
