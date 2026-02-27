@@ -6,58 +6,50 @@ Argentina | Aire (Directo)
 
 ############################
 
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_2016.png" group-title="Argentina | Aire",Telefe
-http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157590
+#EXTINF:-1 tvg-chno="7" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/TV_Publica_logo.png" group-title="Argentina | Aire",Canal 7 - TV Pública
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157589
 
-#EXTINF:-1 tvg-id="eltrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/El_Trece_logo_2016.png" group-title="Argentina | Aire",El Trece
-http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157615
-
-#EXTINF:-1 tvg-id="canal9.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Canal_9_logo_2018.png" group-title="Argentina | Aire",El Nueve
+#EXTINF:-1 tvg-chno="9" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Canal_9_logo_2018.png" group-title="Argentina | Aire",Canal 9
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157595
 
-#EXTINF:-1 tvg-id="america.ar" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/America_TV_logo.png" group-title="Argentina | Aire",América TV
+#EXTINF:-1 tvg-chno="11" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_2016.png" group-title="Argentina | Aire",Canal 11 - Telefe
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157590
+
+#EXTINF:-1 tvg-chno="12" tvg-name="El Doce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Do_Ce_logo.png" group-title="Argentina | Aire",Canal 12
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157621
+
+#EXTINF:-1 tvg-chno="13" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/El_Trece_logo_2016.png" group-title="Argentina | Aire",Canal 13 - El Trece
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157615
+
+#EXTINF:-1 tvg-chno="14" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/America_TV_logo.png" group-title="Argentina | Aire",Canal 14 - América
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157622
 
 ############################
 
-Argentina | Noticias (Directo)
+Argentina | Entretenimiento
 
 ############################
 
-#EXTINF:-1 tvg-id="tn.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TN_logo_2016.png" group-title="Argentina | Noticias",TN
-http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157577
+#EXTINF:-1 tvg-chno="18" tvg-name="Mix TV" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" group-title="Argentina | Entretenimiento",Canal 18 - Mix TV
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157620
 
-#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/C5N_logo.png" group-title="Argentina | Noticias",C5N
-http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157607
+############################
 
-#EXTINF:-1 tvg-id="a24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/A24_logo.png" group-title="Argentina | Noticias",A24
+Argentina | Noticias
+
+############################
+
+#EXTINF:-1 tvg-chno="24" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/A24_logo.png" group-title="Argentina | Noticias",Canal 24 - A24
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157566
 
-#EXTINF:-1 tvg-id="canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_26_logo.png" group-title="Argentina | Noticias",Canal 26
+#EXTINF:-1 tvg-chno="25" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/C5N_logo.png" group-title="Argentina | Noticias",Canal 25 - C5N
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157607
+
+#EXTINF:-1 tvg-chno="26" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_26_logo.png" group-title="Argentina | Noticias",Canal 26
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157594
 
-#EXTINF:-1 tvg-id="lnplus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/La_Nacion%2B_logo.png" group-title="Argentina | Noticias",LN+
+#EXTINF:-1 tvg-chno="30" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/La_Nacion%2B_logo.png" group-title="Argentina | Noticias",Canal 30 - LN+
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157592
 
-############################
-
-Argentina | Aire (HD MPD)
-
-(Solo Android TV / Kodi)
-
-############################
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/TV_Publica_logo.png" group-title="Argentina | HD",TV Pública HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_2016.png" group-title="Argentina | HD",Telefe HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/El_Trece_logo_2016.png" group-title="Argentina | HD",El Trece HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
+#EXTINF:-1 tvg-chno="31" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TN_logo_2016.png" group-title="Argentina | Noticias",Canal 31 - TN
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157577
