@@ -18,7 +18,7 @@ jobs:
           echo "#EXTM3U" > lista.m3u
           echo "" >> lista.m3u
           
-          echo "# Telefe " >> lista.m3u
+          echo "# Telefe" >> lista.m3u
           curl -L http://dplatino.net/live/Copla/HH28wHfJ5hSV/81285.m3u8 >> lista.m3u
           
           echo "" >> lista.m3u
