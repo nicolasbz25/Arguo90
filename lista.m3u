@@ -26,7 +26,7 @@ http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157615
 http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157623
 
 #EXTINF:-1 group-title="Argentina TV",Ciudad Magazine
-https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157565
 
 
 ####################################
@@ -73,3 +73,20 @@ http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157562
 
 #EXTINF:-1 group-title="Deportes",ESPN Premium 2
 http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Premium 3
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
+
+
+####################################
+# FLOW (NO FUNCIONA EN IPTV - DRM)
+####################################
+
+#EXTINF:-1 group-title="Flow",TNT Sports Flow
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
+
+#EXTINF:-1 group-title="Flow",America TV Flow
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+
+#EXTINF:-1 group-title="Flow",Magazine Flow
+https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
