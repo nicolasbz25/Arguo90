@@ -1,34 +1,22 @@
-name: Actualizar IPTV Argentina
+#EXTM3U
 
-on:
-  schedule:
-    - cron: '0 */6 * * *'   # cada 6 horas
-  workflow_dispatch:
+############################
+# TELEFE
+############################
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
+#EXTINF:-1 group-title="Argentina TV",Telefe 1
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157589
 
-    steps:
-      - name: Descargar repo
-        uses: actions/checkout@v3
+#EXTINF:-1 group-title="Argentina TV",Telefe 2
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157590
 
-      - name: Descargar listas oficiales
-        run: |
-          echo "#EXTM3U" > lista.m3u
-          echo "" >> lista.m3u
-          
-          echo "# Telefe" >> lista.m3u
-          curl -L http://dplatino.net/live/Copla/HH28wHfJ5hSV/81285.m3u8 >> lista.m3u
-          
-          echo "" >> lista.m3u
-          echo "# Deportes abiertos" >> lista.m3u
-          curl -L https://iptv-org.github.io/iptv/categories/sports.m3u >> lista.m3u
 
-      - name: Guardar cambios
-        run: |
-          git config --global user.name "iptv-auto"
-          git config --global user.email "auto@github.com"
-          git add lista.m3u
-          git commit -m "Actualización automática" || echo "Sin cambios"
-          git push
+############################
+# EL TRECE
+############################
+
+#EXTINF:-1 group-title="Argentina TV",El Trece 1
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157591
+
+#EXTINF:-1 group-title="Argentina TV",El Trece 2
+http://lite.globaldomain.xyz:8080/m.moreno66/hE3P6LXpzw/157615
